@@ -2193,8 +2193,8 @@ marked@^0.4.0:
   resolved "https://registry.yarnpkg.com/marked/-/marked-0.4.0.tgz#9ad2c2a7a1791f10a852e0112f77b571dce10c66"
 
 maybeasy@^2.0.1:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/maybeasy/-/maybeasy-2.4.0.tgz#ae554216cf36c5b61afcfa57e32bdb2b9daf6f6a"
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/maybeasy/-/maybeasy-2.5.0.tgz#633ed6abf4ece0b276981357c039376d633a8d83"
 
 meant@~1.0.1:
   version "1.0.1"
@@ -3739,7 +3739,7 @@ tar@^4.4.3, tar@^4.4.4:
     safe-buffer "^5.1.2"
     yallist "^3.0.2"
 
-taskarian@^1.2.0, taskarian@^1.5.0:
+taskarian@^1.2.0:
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/taskarian/-/taskarian-1.5.0.tgz#ce205a83a2de53d2b1800a5f57c93b7bec2f7277"
 
