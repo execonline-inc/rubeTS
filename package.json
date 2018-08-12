@@ -1,6 +1,6 @@
 {
   "name": "cooper-ts",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "main": "index.js",
   "types": "index.d.ts",
   "repository": {
@@ -25,11 +25,6 @@
   "dependencies": {
     "ajaxian": "^2.1.1",
     "jsonous": "^3.2.0"
-  },
-  "peerDependencies": {
-    "ajaxian": "^2.1.1",
-    "jsonous": "^3.2.0",
-    "taskarian": "^1.5.0"
   },
   "devDependencies": {
     "semantic-release": "^15.9.8",
